@@ -1,0 +1,34 @@
+.forecast-day {
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 10px;
+  max-width: 300px;
+}
+
+.forecast-day h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.forecast-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0;
+}
+
+.forecast-temp {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.forecast-description {
+  color: #666;
+}
+
+.forecast-details p {
+  margin: 5px 0;
+  color: #555;
+}
