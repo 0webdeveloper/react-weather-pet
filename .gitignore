@@ -20,4 +20,5 @@ dist/
 *.ntvs*
 *.njsproj
 *.sln
+.DS_Store
 package-lock.json
